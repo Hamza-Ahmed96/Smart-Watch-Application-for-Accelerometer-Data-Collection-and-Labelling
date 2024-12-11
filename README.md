@@ -1,0 +1,1 @@
+# Smart-Watch-Application-for-Accelerometer-Data-Collection-and-Labelling
