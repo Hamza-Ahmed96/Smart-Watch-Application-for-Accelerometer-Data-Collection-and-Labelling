@@ -1,1 +1,7 @@
-# Smart-Watch-Application-for-Accelerometer-Data-Collection-and-Labelling
+# Smart Watch for Accelerometer Data-Collection and Labelling
+
+Human activity recognition (HAR), a versatile concept in artificial intelligence, involves identifying activities based on collected raw data from various sources such as wearable sensors, smartphone sensors, and camera devices. The applications of this technology are vast, ranging from healthcare to surveillance, sportsand exercise monitoring, and personal habit tracking. Machine learning models used in HAR perform best with large volumes of accurate data; the more extensive and precise the dataset used for training, the greater the model’s predictive accuracy. Therefore, data collection is arguably the most crucial step in HAR. Most modern smartphones and smartwatches have accelerometers that provide three-dimensional axial data, one of the most reliable methods for tracking physical activity. However, the availability of high-quality datasets, particularly those collected from smartwatches, remains limited. Furthermore, labelling the collected data is often a time-consuming and labour-intensive process. Here, I present a data collection application that allows for the collection of labelled data from a smart watch. The activities list can be configigured via a Microsoft form which using Power Automate flows updates the smart watch app with the list of activities to label data collected. This app collectes tri axial data, which can be stored in an online database on one drive. 
+
+
+
+
